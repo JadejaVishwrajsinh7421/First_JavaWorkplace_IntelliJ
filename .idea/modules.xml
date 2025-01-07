@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/001 Hello_World/001 Hello_World.iml" filepath="$PROJECT_DIR$/1. Java Basics/001 Hello_World/001 Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_JavaWorkplace_intelliJ.iml" filepath="$PROJECT_DIR$/first_JavaWorkplace_intelliJ.iml" />
+    </modules>
+  </component>
+</project>
